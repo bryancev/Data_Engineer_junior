@@ -31,5 +31,5 @@
 
 ## 📬 Связаться со мной
 
-✉️ **Email**: [ваш.email@example.com](mailto:bryansev.andrey@gmail.com)
-💬 **Telegram**: [@ваш_телеграм](https://t.me/bryancev_as)
+✉️ **Email**: [bryansev.andrey@gmail.com](mailto:bryansev.andrey@gmail.com)
+💬 **Telegram**: [@bryancev_as](https://t.me/bryancev_as)
